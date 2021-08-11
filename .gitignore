@@ -1,0 +1,5 @@
+# MySQL database folder
+.dbdata
+
+# Environment folder
+env
